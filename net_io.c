@@ -46,6 +46,9 @@
 //
 // Networking "stack" initialization
 //
+
+extern struct modes Modes;
+
 struct service {
 	char *descr;
 	int *socket;

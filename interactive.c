@@ -29,6 +29,9 @@
 //
 
 #include "dump1090.h"
+
+extern struct modes Modes;
+
 //
 // ============================= Utility functions ==========================
 //
